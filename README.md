@@ -2,7 +2,7 @@
 ![image](https://github.com/SegenKfle/SegenKfle/assets/128647471/e382c014-4acb-42a0-997d-31a31829f17e)
 
 
-I am a highly motivated and detail-oriented professional with a senior retail management background, currently transitioning into the field of technology with a specific focus on data analysis. I have discovered a deep passion for this field and am committed to pursuing it further.
+
 
 Skills: PYTHON / HTML / CSS
 
